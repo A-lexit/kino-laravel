@@ -1,55 +1,5 @@
 /*import '../css/app.css';*/   /*ТЕСТ h1 150px*/
 
-import '../assets/adminb4/plugins/fontawesome-free/css/all.min.css';
-import '../assets/adminb4/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css';
-import '../assets/adminb4/plugins/datatables-responsive/css/responsive.bootstrap4.min.css';
-import '../assets/adminb4/plugins/datatables-buttons/css/buttons.bootstrap4.min.css';
-
-import '../assets/adminb4/dist/css/adminlte.min.css';
-
-/*import '../assets/adminb4/plugins/jquery/jquery.min.js';*/  // можливо потрібно для адмінки (згортання/розгортання сайдбара), але для каруселі не підходиить
-
-
-
-
-
-/*import '../assets/adminb4/dist/js/demo.js';*/
-import '../assets/adminb4/plugins/bootstrap/js/bootstrap.bundle.min.js';
-
-import '../assets/adminb4/plugins/datatables/jquery.dataTables.min.js';
-import '../assets/adminb4/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js';
-
-import '../assets/adminb4/plugins/datatables-responsive/js/dataTables.responsive.min.js';
-
-import '../assets/adminb4/plugins/datatables-responsive/js/responsive.bootstrap4.min.js';
-
-import '../assets/adminb4/plugins/datatables-buttons/js/dataTables.buttons.min.js';
-
-import '../assets/adminb4/plugins/datatables-buttons/js/buttons.bootstrap4.min.js';
-
-import '../assets/adminb4/plugins/jszip/jszip.min.js';
-
-import '../assets/adminb4/plugins/pdfmake/pdfmake.min.js';
-
-
-
-import '../assets/adminb4/plugins/datatables-buttons/js/buttons.html5.min.js';
-
-import '../assets/adminb4/plugins/datatables-buttons/js/buttons.print.min.js';
-
-import '../assets/adminb4/plugins/datatables-buttons/js/buttons.colVis.min.js';
-
-import '../assets/adminb4/dist/js/adminlte.min.js';
-/*import '../assets/adminb4/plugins/pdfmake/vfs_fonts.js';*/
-
-
-
-
-
-
-
-
-
 
 
 /**

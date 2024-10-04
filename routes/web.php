@@ -99,7 +99,7 @@ Route::group(['prefix' => 'admin', 'middleware' => 'banuser'], function () {
 
 
     //Route::get('/', [MainController::class, 'index']);
-    Route::get('/', [\App\Http\Controllers\Admin\MainController::class, 'index'])->name('admin.index'); ;
+    Route::get('/', [\App\Http\Controllers\Admin\MainController::class, 'index'])->name('admin.index');
     Route::resource('/categories', CategoryController::class);
     Route::resource('/users', App\Http\Controllers\Admin\UserController::class);
     Route::get('/users/toggle/{id}', [App\Http\Controllers\Admin\UserController::class, 'toggle']);
